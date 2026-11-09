@@ -204,7 +204,7 @@ SystemFromScratch®
 - GitHub: [AntonVynohradov](https://github.com/AntonVynohradov)
 - LinkedIn: [vynohradov](https://www.linkedin.com/in/vynohradov)
 - ORCID: [0009-0005-6965-0911](https://orcid.org/0009-0005-6965-0911)
-- E-mail: [avynohradov@systemfromscratch.com](mailto:avynohradov@systemfromscratch.com)
+- E-mail: [contact@systemfromscratch.com](mailto:contact@systemfromscratch.com)
 
 ## Releases & Versioning
 
